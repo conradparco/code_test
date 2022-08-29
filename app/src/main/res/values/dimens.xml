@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_medium">14sp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_smaller">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_default">16dp</dimen>
+
+    <!-- Joke Row -->
+    <dimen name="row_joke_height">80dp</dimen>
+
+
+
+
+</resources>
